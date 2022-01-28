@@ -1,5 +1,5 @@
 {
-    "schedule": "daily",
+    "schedule": "monthly",
     "ignoredFiles": [
         "**/GameData/**",
         "docs/LegalMumboJumbo/*"
