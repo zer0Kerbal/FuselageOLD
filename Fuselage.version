@@ -1,37 +1,42 @@
 {
-	"NAME":"DaMichel's Fuselage",
-	"URL":"https://github.com/zer0Kerbal/DaMichel/raw/GameData/DaMichel/Fuselage/Fuselage.version",
-	"DOWNLOAD":"https://github.com/zer0Kerbal/DaMichel/releases",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/DaMichel/GameData/DaMichel/Fuselage/Changelog.cfg",
+    "NAME"           : "DaMichel's Fuselage (DMF)",
+    "URL"            : "https://raw.github.com/zer0Kerbal/Fuselage/master/Fuselage.version",
+    "DOWNLOAD"       : "https://github.com/zer0Kerbal/Fuselage/releases/latest",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/changelog.md",
     "GITHUB":
     {
-        "USERNAME":"zer0Kerbal",
-        "REPOSITORY":"DaMichel/Fuselage/",
-        "ALLOW_PRE_RELEASE":false
+        "USERNAME"         : "zer0Kerbal",
+        "REPOSITORY"       : "Fuselage",
+        "ALLOW_PRE_RELEASE": false
     },
-	"VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":1,
-		"PATCH":0,
-		"BUILD":2
-	},
-	"KSP_VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":8,
-		"PATCH":1
-	},
-	"KSP_VERSION_MIN":
-	{
-		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":1
-	},
-	"KSP_VERSION_MAX":
-	{
-		"MAJOR":1,
-		"MINOR":9,
-		"PATCH":9999
-	}
+    "VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 1,
+        "PATCH": 0,
+        "BUILD": 2
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 11,
+        "PATCH": 2
+    },
+    "KSP_VERSION_MIN":
+    {
+        "MAJOR": 1,
+        "MINOR": 3,
+        "PATCH": 1
+    },
+    "KSP_VERSION_MAX":
+    {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 9999
+    },
+    "INSTALL_LOC":
+    {
+        "NAME"     : "Fuselage",
+        "DIRECTORY": "DaMichel/Fuselage"
+    }
 }
